@@ -11,3 +11,12 @@ Sublime Text - 2 http://www.sublimetext.com/2
 iTerm 2 - http://www.iterm2.com/#/section/home
 
 Autojump - https://github.com/joelthelion/autojump
+
+Node.js
+
+    Npm
+        - grunt
+        
+
+Phantom JS
+    brew install phantomjs
