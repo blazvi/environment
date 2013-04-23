@@ -16,3 +16,5 @@ export TERM=xterm-256color
 # https://github.com/joelthelion/autojump
 [[ -s `brew --prefix`/etc/autojump.sh ]] && . `brew --prefix`/etc/autojump.sh
 
+
+alias mntv="sudo mount blaz:/home/blaz/ ~/Work/celtra/virtual/"
