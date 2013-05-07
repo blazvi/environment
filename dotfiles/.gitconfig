@@ -20,3 +20,10 @@
 	excludesfile = /Users/masina/.gitignore
 [color]
 	ui = true
+[alias]
+	co = checkout
+	unstage = reset HEAD --
+	br = branch
+	ci = commit
+	st = status
+	last = log -1 HEAD
