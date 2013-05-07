@@ -1,5 +1,5 @@
 [user]
-	name = Blaž Vizjak
+	name = Blaž Vizjak
 	email = blaz@celtra.com
 [mergetool]
 	keepBackup = true
@@ -16,4 +16,7 @@
 [merge]
 	tool = Kaleidoscope
 [core]
-	editor = subl
+	editor = subl -w
+	excludesfile = /Users/masina/.gitignore
+[color]
+	ui = true
