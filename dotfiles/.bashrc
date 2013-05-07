@@ -1,5 +1,6 @@
 # Adjack and other scripts path
-export PATH=$PATH:~/Applications/Scripts:/usr/local/bin:/usr/local/share/npm/bin
+# export PATH=$PATH:~/Applications/Scripts:/usr/local/bin:/usr/local/share/npm/bin
+export PATH=~/Applications/Scripts:/usr/local/bin:/usr/local/share/npm/bin:$PATH
 
 # Tell ls to be colourful
 export CLICOLOR=1
