@@ -20,3 +20,6 @@ Node.js
 
 Phantom JS
     brew install phantomjs
+
+Kaleidoscope - http://www.kaleidoscopeapp.com/
+    diff and merge tool
