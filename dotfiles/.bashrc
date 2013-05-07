@@ -17,5 +17,7 @@ export TERM=xterm-256color
 # https://github.com/joelthelion/autojump
 [[ -s `brew --prefix`/etc/autojump.sh ]] && . `brew --prefix`/etc/autojump.sh
 
+# autocomplete script for git. Found http://git-scm.com/book/en/Git-Basics-Tips-and-Tricks 
+source ~/.git-completition.bash
 
 alias mntv="sudo mount blaz:/home/blaz/ ~/Work/celtra/virtual/"
